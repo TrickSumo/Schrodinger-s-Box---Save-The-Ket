@@ -19,4 +19,4 @@ Objects in game:-
 
 3. At the end of the level, portal/gate to another level, is blocked by some quiz.
 
-CAn be downloaded at:- https://rishigames.itch.io/schrodingers-box
+Can be downloaded at:- https://rishigames.itch.io/schrodingers-box
